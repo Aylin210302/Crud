@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  url: 'https://catalogo-producto-b524b-default-rtdb.firebaseio.com/'
 };
 
 /*
